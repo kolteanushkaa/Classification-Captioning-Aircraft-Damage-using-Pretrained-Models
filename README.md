@@ -546,7 +546,7 @@ Should show something like: `Python 3.9.13`
 
 ```bash
 
-git clone https://github.com/kolteanushkaa/aircraft-damage-classification-captioning.git
+git clone https://github.com/kolteanushkaa/Classification-Captioning-Aircraft-Damage-using-Pretrained-Models.git
 
 cd aircraft-damage-classification-captioning
 
