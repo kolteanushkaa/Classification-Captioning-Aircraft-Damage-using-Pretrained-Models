@@ -4,11 +4,11 @@ VGG16-based aircraft damage classification (dent vs crack) + BLIP image captioni
 
 
 
-\# 🛩️ Aircraft Damage Classification \& Captioning
+# 🛩️ Aircraft Damage Classification \& Captioning
 
 
 
-\*\*Automated aircraft damage detection using VGG16 deep learning and BLIP-based image captioning.\*\*
+**Automated aircraft damage detection using VGG16 deep learning and BLIP-based image captioning.**
 
 
 
